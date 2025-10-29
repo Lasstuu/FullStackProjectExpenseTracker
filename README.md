@@ -9,3 +9,6 @@ NODE_ENV=development
 PORT=8000
 MONGO_URI=your mongodb connection string
 JWT_SECRET= your jwt secret key
+
+Demo video: https://youtu.be/gDbCBVvnOCQ
+Course work: https://github.com/Lasstuu/SDSFullStackCourseWorks
