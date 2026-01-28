@@ -1,4 +1,4 @@
-# SDS Full-Stack Project
+# Full-Stack Project
 
 Expense Tracker website where you can input categorised expenses and see a chart visualization of the distribution.
 
@@ -11,4 +11,3 @@ MONGO_URI=your mongodb connection string
 JWT_SECRET= your jwt secret key
 
 Demo video: https://youtu.be/gDbCBVvnOCQ
-Course work: https://github.com/Lasstuu/SDSFullStackCourseWorks
